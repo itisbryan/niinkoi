@@ -1,4 +1,4 @@
-### Hi there, this is Mashiro 👋
+<!-- ### Hi there, this is Mashiro 👋
 
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mashirozx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">
 
@@ -47,3 +47,4 @@
 
 </details>
 -->
+ -->
